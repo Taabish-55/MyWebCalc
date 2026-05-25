@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>	Mera JSP  Page</title>
+<title>	Mera JSP   Page</title>
 
 <style>
 img{
