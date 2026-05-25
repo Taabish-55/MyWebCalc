@@ -19,7 +19,7 @@ public class MyServlet extends HttpServlet {
 	        "Why don't programmers like nature? It has too many bugs.",
 	        "How many programmers does it take to change a light bulb? None, it's a hardware problem.",
 	        // Add more jokes here
-	    };
+	    } ;
        
     /**
      * @see HttpServlet#HttpServlet()
