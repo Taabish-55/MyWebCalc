@@ -3,7 +3,7 @@ FROM maven:3.9.6-eclipse-temurin-21 AS build
 WORKDIR /app
 
 # Copy all your project files into the container
-COPY . .
+COPY . . 
 
 # Package the application into a WAR file, skipping local unit tests
 RUN mvn clean package -DskipTests
